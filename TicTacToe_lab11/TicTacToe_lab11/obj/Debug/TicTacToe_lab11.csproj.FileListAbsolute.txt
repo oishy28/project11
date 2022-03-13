@@ -1,0 +1,11 @@
+C:\Users\Win-10\source\repos\TicTacToe_lab11\TicTacToe_lab11\bin\Debug\TicTacToe_lab11.exe.config
+C:\Users\Win-10\source\repos\TicTacToe_lab11\TicTacToe_lab11\bin\Debug\TicTacToe_lab11.exe
+C:\Users\Win-10\source\repos\TicTacToe_lab11\TicTacToe_lab11\bin\Debug\TicTacToe_lab11.pdb
+C:\Users\Win-10\source\repos\TicTacToe_lab11\TicTacToe_lab11\obj\Debug\TicTacToe_lab11.csproj.AssemblyReference.cache
+C:\Users\Win-10\source\repos\TicTacToe_lab11\TicTacToe_lab11\obj\Debug\TicTacToe_lab11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win-10\source\repos\TicTacToe_lab11\TicTacToe_lab11\obj\Debug\TicTacToe_lab11.Form1.resources
+C:\Users\Win-10\source\repos\TicTacToe_lab11\TicTacToe_lab11\obj\Debug\TicTacToe_lab11.Properties.Resources.resources
+C:\Users\Win-10\source\repos\TicTacToe_lab11\TicTacToe_lab11\obj\Debug\TicTacToe_lab11.csproj.GenerateResource.cache
+C:\Users\Win-10\source\repos\TicTacToe_lab11\TicTacToe_lab11\obj\Debug\TicTacToe_lab11.csproj.CoreCompileInputs.cache
+C:\Users\Win-10\source\repos\TicTacToe_lab11\TicTacToe_lab11\obj\Debug\TicTacToe_lab11.exe
+C:\Users\Win-10\source\repos\TicTacToe_lab11\TicTacToe_lab11\obj\Debug\TicTacToe_lab11.pdb
